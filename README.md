@@ -3,6 +3,10 @@ This is part of the Prismic Slice contest.
 
 > For info the contest [blog post](https://prismic.io/blog/slice-contest?utm_campaign=devexp&utm_source=github&utm_medium=slicecontestpost).
 
+## Why Create Slices for a Missing Kids site?
+
+I've always thought that certain aspects of websites that focus on missing people could be better. In particular, when images get indexed to google, they will not usually have all the pertinent info you need or even know these are images of missing children. So I figured that while I was working on designing new slices for a Prismic Contest, might as well try to find a solution to this problem.  Prismic allowed me to easily create a UI for end users that simply add an image, name, description, other info and I was able to embed that into the image so the image can be indexed by Google. Then when someone sees the image on Google, it will have all the necessary info about the missing child.  You always hear that it's just important to get these pictures out there and to have as many people look at them, so I think this will particulary help this effort and ensure important info is not lost when the images are indexed away from the website.
+
 ## Documentation
 
 The storybook was made using Prismic as part of their #slicecontest. You will notice a lot of the changes I made to the prismic images are using an API that is part of imgix. Prismic does natively use imgix for their images for sizes, compression, formatting, & responsive design. But there are a lot of tricks you can do around styling & design to the image as well. Below, you will see explanations of how I applied this using the imgix API in conjunction with Prismic.
