@@ -3,6 +3,10 @@ This is part of the Prismic Slice contest.
 
 > For info the contest [blog post](https://prismic.io/blog/slice-contest?utm_campaign=devexp&utm_source=github&utm_medium=slicecontestpost).
 
+Here is a link to the Storybook of the [custom mocks](https://missingkids-slicecontest.tomdale.vercel.app/?path=/story/missingimage--default-slice) I created.
+
+Here is a link to a live version of a [website](https://missingkids.tomdale.website/) using all of this.
+
 ## Why Create Slices for a Missing Kids site?
 
 I've always thought that certain aspects of websites that focus on missing people could be better. In particular, when images get indexed to google, they will not usually have all the pertinent info you need or even know these are images of missing children. So I figured that while I was working on designing new slices for a Prismic Contest, might as well try to find a solution to this problem.  Prismic allowed me to easily create a UI for end users that simply add an image, name, description, other info and I was able to embed that into the image so the image can be indexed by Google. Then when someone sees the image on Google, it will have all the necessary info about the missing child.  You always hear that it's just important to get these pictures out there and to have as many people look at them, so I think this will particulary help this effort and ensure important info is not lost when the images are indexed away from the website.
